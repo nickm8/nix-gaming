@@ -94,7 +94,6 @@ repo.py
 *jfk.flac*
 *.pickle*
 *.doctree*
-README.md
 
 *poetry.lock*
 *.env.example*
@@ -123,7 +122,6 @@ Gruntfile.js
 
 # Documentation
 docs/
-*.md
 LICENSE*
 
 # Test files
@@ -192,7 +190,6 @@ Thumbs.db
 *.map
 
 # Documentation
-*.md
 **/docs/
 **/doc/
 **/documentation/
