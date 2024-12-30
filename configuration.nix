@@ -89,6 +89,8 @@
     packages = with pkgs; [
       firefox
       steam
+      discord
+      obs-studio
     ];
   };
   services.getty.autologinUser = "dev";
