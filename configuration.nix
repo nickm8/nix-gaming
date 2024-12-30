@@ -111,6 +111,12 @@
     gamemode
     mangohud
     sunshine
+    
+    # Communication
+    discord
+
+    # Streaming/Recording
+    obs-studio
   ];
 
   # Services
